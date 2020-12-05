@@ -1,7 +1,7 @@
-# Stock price predection using Python
+# Stock price prediction using Python
 ![RNN](https://github.com/ahmadmardeni1/Stock-price-predection-using-Python/blob/main/RNN.png)
 
-## What is stock price predection?
-It is the method of analyzing the past data of a sepecific stock in order to predict the future price for it.
+## What is stock price prediction?
+It is the method of analyzing the past data of a specific stock in order to predict the future price for it.
 
-In this repo i used Python with RNN(LSTM) model to predict tesla stock price, hope that i can make Elon Mask happy along the way. 
+In this repo, I used Python with RNN(LSTM) model to predict Tesla stock price, hope that I can make Elon Mask happy along the way. 
