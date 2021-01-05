@@ -6,4 +6,4 @@ It is the method of analyzing the past data of a specific stock in order to pred
 
 In this repo, I used Python with RNN(LSTM) model to predict Tesla stock price, hoping that I can make Elon Musk happy along the way. 
 
-Please consider reading my tutorial if you want to follow along with this code.
+Please consider reading [my tutorial](https://www.section.io/engineering-education/stock-price-prediction-using-python/) if you want to follow along with this code.
