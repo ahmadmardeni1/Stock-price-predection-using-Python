@@ -4,4 +4,6 @@
 ## What is stock price prediction?
 It is the method of analyzing the past data of a specific stock in order to predict the future price for it.
 
-In this repo, I used Python with RNN(LSTM) model to predict Tesla stock price, hope that I can make Elon Mask happy along the way. 
+In this repo, I used Python with RNN(LSTM) model to predict Tesla stock price, hoping that I can make Elon Musk happy along the way. 
+
+Please consider reading my tutorial if you want to follow along with this code.
